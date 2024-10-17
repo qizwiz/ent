@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ent
-Ent is an AI-powered system designed to analyze GitHub repositories, identify churn, and predict future issues or features based on historical patterns and architecture improvements. Inspired by operation-based version control and enhanced by AI-generated code suggestions.
-=======
 # Ent (Edit Node Tree)
 
 **Ent** is a system designed to leverage tree-edit operations for analyzing, modifying, and improving code architecture. The project aims to create an **AI-driven issue/feature classifier** for GitHub repositories, using advanced tree-edit distance calculations, memoization, and AI-generated code suggestions.
@@ -24,4 +20,3 @@ This project aligns with the ideas discussed in the FASE 2010 paper on **OperV**
 - Dockerize the system for easy deployment.
 
 _Shoutout to the **OperV paper**, which inspired the core ideas of operation-based version control for efficient and scalable tree edits._
->>>>>>> 0f9c7ce (Initial commit: Core tree-edit operations and tests)
